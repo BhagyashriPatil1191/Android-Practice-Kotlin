@@ -27,6 +27,10 @@ Hilt is a dependency injection library built on top of Dagger that reduces boile
   - Jetpack Compose
   - Hilt (Dagger)
 
+## 👤 Author
+
+Bhagyashri Patil
+
 ## 📄 License
 
 This project is open-source and available under the MIT License.
